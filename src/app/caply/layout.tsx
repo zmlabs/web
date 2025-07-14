@@ -11,5 +11,5 @@ interface CaplyLayoutProps {
 
 export default function CaplyLayout(props: CaplyLayoutProps) {
   const { children } = props;
-  return <div className="flex justify-center">{children}</div>;
+  return <div className="flex justify-center p-8">{children}</div>;
 }
