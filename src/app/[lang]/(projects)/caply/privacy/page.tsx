@@ -8,5 +8,5 @@ export default function PrivacyPolicy() {
     path.join(process.cwd(), "src/markdown/caply/privacy.md"),
     "utf-8",
   )
-  return <Markdown text={privacy} />
+  return <Markdown className="m-auto py-24" text={privacy} />
 }

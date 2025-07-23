@@ -8,5 +8,5 @@ export default function TermsOfService() {
     path.join(process.cwd(), "src/markdown/caply/terms.md"),
     "utf-8",
   )
-  return <Markdown text={terms} />
+  return <Markdown className="m-auto py-24" text={terms} />
 }
