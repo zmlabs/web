@@ -101,7 +101,7 @@ export function FeatureShowcase({ details, header }: FeatureShowcaseProps) {
       ref={containerRef}
       aria-label="Features Section"
       className={`
-        relative mx-auto mb-0 h-[400vh] max-w-screen-2xl px-4 pb-24
+        relative mx-auto mb-0 h-[600vh] max-w-screen-2xl px-4 pb-24
         md:px-8
         lg:px-12
       `}
