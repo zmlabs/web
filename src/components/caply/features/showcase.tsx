@@ -50,27 +50,27 @@ export function FeatureShowcase({ details, header }: FeatureShowcaseProps) {
     {
       key: "aiTranslation",
       ...details.aiTranslation,
-      video: "/caply/translation.mp4",
+      video: "/assets/caply/translation.mp4",
     },
     {
       key: "captionMode",
       ...details.captionMode,
-      video: "/caply/caption-mode.mp4",
+      video: "/assets/caply/caption-mode.mp4",
     },
     {
       key: "customDisplay",
       ...details.customDisplay,
-      video: "/caply/dark-mode.mp4",
+      video: "/assets/caply/dark-mode.mp4",
     },
     {
       key: "historyAndSummary",
       ...details.historyAndSummary,
-      video: "/caply/summary.mp4",
+      video: "/assets/caply/summary.mp4",
     },
     {
       key: "localRecognition",
       ...details.localRecognition,
-      video: "/caply/recognition.mp4",
+      video: "/assets/caply/recognition.mp4",
     },
   ]
 

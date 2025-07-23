@@ -31,8 +31,8 @@ export async function Banner(props: BannerProps) {
       </div>
       <Video
         className="w-full max-w-xl rounded-xl"
-        darkSrc="/caply/introduction-dark.mp4"
-        lightSrc="/caply/introduction-light.mp4"
+        darkSrc="/assets/caply/introduction-dark.mp4"
+        lightSrc="/assets/caply/introduction-light.mp4"
       />
     </div>
   )
