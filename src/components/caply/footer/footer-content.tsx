@@ -10,7 +10,7 @@ export async function FooterContent({ lang }: FooterContentProps) {
   const t = await translation(lang)
 
   const navigationLinks = [
-    { href: `https://caply.featurebase.app/`, label: t.footer.caply.feedback },
+    { href: `/${lang}/caply/feedback`, label: t.footer.caply.feedback },
     { href: `/${lang}/caply/help`, label: t.footer.caply.help },
     { href: `/${lang}/caply/privacy`, label: t.footer.caply.privacy },
     { href: `/${lang}/caply/terms`, label: t.footer.caply.terms },
