@@ -16,8 +16,9 @@ export function BillingToggle({
   onToggle,
 }: BillingToggleProps) {
   return (
-    <div
-      className="relative rounded-full border border-border/50 bg-muted/50 p-1"
+    <div className={`
+      relative rounded-full border border-border/50 bg-muted/50 p-1
+    `}
     >
       {/* 背景滑块 */}
       <div
