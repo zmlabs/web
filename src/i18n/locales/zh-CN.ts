@@ -102,8 +102,8 @@ export default {
             yearly: "/年",
           },
           price: {
-            monthly: "¥8.00",
-            yearly: "¥68.00",
+            monthly: "¥3.00",
+            yearly: "¥22.00",
           },
         },
         free: {
@@ -137,8 +137,8 @@ export default {
             yearly: "/年",
           },
           price: {
-            monthly: "¥15.00",
-            yearly: "¥148.00",
+            monthly: "¥6.00",
+            yearly: "¥48.00",
           },
         },
       },

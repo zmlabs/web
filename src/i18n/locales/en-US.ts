@@ -114,8 +114,8 @@ export default {
             yearly: "/year",
           },
           price: {
-            monthly: "$0.99",
-            yearly: "$9.99",
+            monthly: "$0.29",
+            yearly: "$2.89",
           },
         },
         free: {
@@ -149,8 +149,8 @@ export default {
             yearly: "/year",
           },
           price: {
-            monthly: "$1.99",
-            yearly: "$19.99",
+            monthly: "$0.69",
+            yearly: "$6.59",
           },
         },
       },
