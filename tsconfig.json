@@ -2,7 +2,7 @@
   "compilerOptions": {
     "incremental": true,
     "target": "ES2017",
-    "jsx": "preserve",
+    "jsx": "react-jsx",
     "lib": ["dom", "dom.iterable", "esnext"],
     "module": "esnext",
     "moduleResolution": "bundler",
@@ -29,7 +29,8 @@
     ".next/types/**/*.ts",
     "eslint.config.mjs",
     "postcss.config.mjs",
-    "functions/_middleware.js"
+    "functions/_middleware.js",
+    ".next/dev/types/**/*.ts"
   ],
   "exclude": ["node_modules"]
 }

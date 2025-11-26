@@ -2,9 +2,14 @@ import Link from "next/link"
 
 const projects = [
   {
-    name: "CAPLY",
-    description: "The AI captioning tool from live to summary",
-    href: "/en-US/caply",
+    name: "Metri",
+    description: "A precise, elegant metronome.",
+    href: "/en-US/metri",
+  },
+  {
+    name: "Volume Hud",
+    description: "Custom Volume Interface for macOS.",
+    href: "/en-US/volume-hud",
   },
 ]
 

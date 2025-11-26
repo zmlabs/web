@@ -2,6 +2,8 @@
 
 Volume HUD is a minimalist utility that replaces the default macOS volume indicator with a beautiful, customizable interface. Designed for users who want a cleaner, more personalized volume feedback experience while maintaining complete privacy and system integrity.
 
+Download on the [AppStore](https://apps.apple.com/us/app/volume-hud/id6752903119)
+
 ---
 
 ### Key Features
