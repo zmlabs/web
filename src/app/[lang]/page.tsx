@@ -7,9 +7,9 @@ const projects = [
     href: "/en-US/metri",
   },
   {
-    name: "Volume Hud",
+    name: "Better OSD",
     description: "Custom Volume Interface for macOS.",
-    href: "/en-US/volume-hud",
+    href: "/en-US/better-osd",
   },
 ]
 
